@@ -61,10 +61,12 @@ content:
         # link_text: boringcompany.com
         sub_title: Assisstant Chief AI
         caption: Mai 2024 - Juillet 2024 
-        quote: >
-        description: | # this will include new lines to allow paragraphs
      
-  - title: Experience
+        description: | # this will include new lines to allow paragraphs
+
+          /
+     
+  - title: 
     layout: list
     content:
       - layout:
@@ -122,11 +124,11 @@ content:
          
          Introducing a cutting-edge ChatGPT detection system leveraging freely available N-gram models, Markov chains, and kernel distance algorithms. This innovative solution provides efficient and accessible tools for identifying instances of ChatGPT across diverse online content. Stay ahead of the curve with this open-source detector, empowering users to enhance online communication safety and security.
   
-  - title: HuggingFaces # Title for the section
+  - title: HuggingFace # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: StendhalGPT
+        title: HuggingFace
         link: https://huggingface.co/Nielzac
         description: | # this will include new lines to allow paragraphs
 
