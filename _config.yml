@@ -55,8 +55,19 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
- - title: Experience # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Aldecis
+        link: aldecis.com
+        # link_text: boringcompany.com
+        sub_title: Assisstant Chief AI
+        caption: Mai 2024 - Juillet 2024 
+        quote: >
+          Transform Business Intelligence with Symbolic and Connectionist Artificial Intelligence Application.
+        description: | # this will include new lines to allow paragraphs
+            Revolutionize business intelligence through the integration of Symbolic and Connectionist Artificial Intelligence Application. Leverage the power of Python, including Langchain and PyTorch, along with Neo4j using Cypher query language. Implement advanced data storage and retrieval with Milvus and Pinecone. Tailor the solution specifically for the domains of Corporate Finance and Management, ensuring a comprehensive and efficient approach to business analytics and decision-making processes.
     content:
       - layout: left
         title: Aldecis
