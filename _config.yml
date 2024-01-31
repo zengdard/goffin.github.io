@@ -10,7 +10,7 @@ name: Jérémy GFA
 title: Ai and Cybersecurity Student 
 email: jeremy_gfa@proton.me
 website: zengdard.github.io
-medium : https://medium.com/@jeremy_gfa
+medium : medium.com/@jeremy_gfa
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -64,8 +64,9 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
      
-    content:
-        - layout: left
+      - title: Experience
+          content:
+          layout: left
           title: Aldecis
           link: aldecis.com
           # link_text: boringcompany.com
@@ -97,7 +98,7 @@ content:
       ##### - [Building an Intrusion Detection System with Improved CICIDS 2017 and CSE-CICIDS 2018 Datasets using Deep Learning in Keras-TensorFlow](https://medium.com/@jeremy_gfa/building-an-intrusion-detection-system-with-improved-cicids-2017-and-cse-cicids-2018-datasets-using-95d4a66a88b6)
       ##### - [Using Encodec Meta Model in Stereo Mode with torchaudio](https://medium.com/@jeremy_gfa/using-encodec-meta-model-in-stereo-mode-with-torchaudio-7651cdc7632c)
       
-      #### All can be found here :
+      #### All articles can be found here :
       - [Medium](https://medium.com/@jeremy_gfa)
 
   - title: Projects # Title for the section
@@ -119,6 +120,16 @@ content:
         description: | # this will include new lines to allow paragraphs
          
          Introducing a cutting-edge ChatGPT detection system leveraging freely available N-gram models, Markov chains, and kernel distance algorithms. This innovative solution provides efficient and accessible tools for identifying instances of ChatGPT across diverse online content. Stay ahead of the curve with this open-source detector, empowering users to enhance online communication safety and security.
+  
+  - title: HuggingFaces # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: StendhalGPT
+        link: https://huggingface.co/Nielzac
+        description: | # this will include new lines to allow paragraphs
+
+          Some datasets and models avalaible on HF.
 
 # Footer
 footer_show_references: true
