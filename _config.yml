@@ -94,17 +94,17 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some writting about Artificial Intelligence and Symbolic Approch:
-      ###### - [Training a Router for a Constellation of Models in PyTorch:](https://medium.com/@jeremy_gfa/training-a-router-for-a-constellation-of-models-in-pytorch-b63fb8677535)
-      ###### - [Building an Intrusion Detection System with Improved CICIDS 2017 and CSE-CICIDS 2018 Datasets using Deep Learning in Keras-TensorFlow](https://medium.com/@jeremy_gfa/building-an-intrusion-detection-system-with-improved-cicids-2017-and-cse-cicids-2018-datasets-using-95d4a66a88b6)
-      ###### - [Using Encodec Meta Model in Stereo Mode with torchaudio](https://medium.com/@jeremy_gfa/using-encodec-meta-model-in-stereo-mode-with-torchaudio-7651cdc7632c)
+      ##### - [Training a Router for a Constellation of Models in PyTorch:](https://medium.com/@jeremy_gfa/training-a-router-for-a-constellation-of-models-in-pytorch-b63fb8677535)
+      ##### - [Building an Intrusion Detection System with Improved CICIDS 2017 and CSE-CICIDS 2018 Datasets using Deep Learning in Keras-TensorFlow](https://medium.com/@jeremy_gfa/building-an-intrusion-detection-system-with-improved-cicids-2017-and-cse-cicids-2018-datasets-using-95d4a66a88b6)
+      ##### - [Using Encodec Meta Model in Stereo Mode with torchaudio](https://medium.com/@jeremy_gfa/using-encodec-meta-model-in-stereo-mode-with-torchaudio-7651cdc7632c)
       
-       <mark>All can be found here :</mark> 
+       ##### All can be found here :
       - [Medium](https://medium.com/@jeremy_gfa)
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: StendhalGPT
         link: stendhalgpt.fr
         # link_text: Project Website
