@@ -64,7 +64,7 @@ content:
         quote: >
         description: | # this will include new lines to allow paragraphs
      
-      - title: Experience
+  - title: Experience
           layout: list
           content:
             - layout:
