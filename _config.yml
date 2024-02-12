@@ -42,7 +42,7 @@ additional_links:
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "G-9ZM4STESXV"
-# google_analytics: "UA-00000000-0"
+# google_analytics: "G-9ZM4STESXV"
 
 # About Section
 # about_title: About Me
