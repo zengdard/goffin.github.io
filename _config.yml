@@ -141,8 +141,8 @@ content:
         title: Intelligentsia
         # link: https://huggingface.co/Nielzac
         description: | # this will include new lines to allow paragraphs
-          https://telegra.ph/Finance-de-March%C3%A9--Les-options-02-09
-          https://telegra.ph/Croissance-Ricardienne--Croissance-Schump%C3%A9t%C3%A9rienne---Vers-un-renouveau-Schump%C3%A9t%C3%A9rien-02-12
+          [La finance de Marché : les options et produits dérivés](https://telegra.ph/Finance-de-March%C3%A9--Les-options-02-09)
+          [Croissance Ricardienne et Croissance Schumpétèrienne](https://telegra.ph/Croissance-Ricardienne--Croissance-Schump%C3%A9t%C3%A9rienne---Vers-un-renouveau-Schump%C3%A9t%C3%A9rien-02-12)
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
