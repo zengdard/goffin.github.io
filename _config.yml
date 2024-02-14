@@ -134,16 +134,15 @@ content:
 
           Some datasets and models avalaible on HF.
           
-  - title: HuggingFace # Title for the section
+  - title: Association # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: HuggingFace
-        link: https://huggingface.co/Nielzac
+        title: Intelligentsia
+        # link: https://huggingface.co/Nielzac
         description: | # this will include new lines to allow paragraphs
-
-          Some datasets and models avalaible on HF.
-
+          https://telegra.ph/Finance-de-March%C3%A9--Les-options-02-09
+          https://telegra.ph/Croissance-Ricardienne--Croissance-Schump%C3%A9t%C3%A9rienne---Vers-un-renouveau-Schump%C3%A9t%C3%A9rien-02-12
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
