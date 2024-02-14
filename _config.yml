@@ -33,7 +33,7 @@ linkedin_username: jeremy-gffa
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: stendhalgpt.fr
+  url: stendhalgpt.10web.site
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -90,7 +90,7 @@ content:
         quote: >
           ESAIP, the School of Responsible Futures, is a Private Institution of General Interest, accredited by the Commission des Titres d'Ingénieurs (CTI), a member of the Conference des Grandes Écoles (CGE), and part of the Federation of Institutions of Higher Education of Collective Interest (FESIC). Inspired by the lasallian tradition, ESAIP shapes tomorrow's experts in Digital Technology and Risk & Environmental Management, strategically positioned in cities like Angers, Aix-en-Provence, and Reims.
         description: | # this will include new lines to allow paragraphs
-          During my time at ESAIP, I had the privilege of being immersed in the dynamic environment of the School of Responsible Futures. As the president of the 'Intelligentsia' club, which focused on economic intelligence, history, Sciences Po finance, and geopolitics, I actively organized conferences and disseminated newsletters. Additionally, I engaged in a compelling project on Symbolic AI, with guidance and support from an entrepreneurial representative. 
+          During my time at ESAIP, I had the privilege of being immersed in the dynamic environment of the School of Responsible Futures. As the president of the 'Intelligentsia' club, which focused on economic intelligence, history, Sciences Po finance, and geopolitics, I actively organized conferences and disseminated newsletters. Additionally,  
           
           ESAIP's strategic locations in cities like Angers, Aix-en-Provence, and Reims provided an enriching backdrop for both academic pursuits and professional collaborations.
   - title: Writting 
@@ -109,7 +109,7 @@ content:
     content:
       - layout: left
         title: StendhalGPT
-        link: stendhalgpt.fr
+        link: stendhalgpt.10web.site
         # link_text: Project Website
        # additional_links:
           #- title:  sproogen/modern-resume-theme
@@ -124,6 +124,16 @@ content:
          
          Introducing a cutting-edge ChatGPT detection system leveraging freely available N-gram models, Markov chains, and kernel distance algorithms. This innovative solution provides efficient and accessible tools for identifying instances of ChatGPT across diverse online content. Stay ahead of the curve with this open-source detector, empowering users to enhance online communication safety and security.
   
+  - title: HuggingFace # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: HuggingFace
+        link: https://huggingface.co/Nielzac
+        description: | # this will include new lines to allow paragraphs
+
+          Some datasets and models avalaible on HF.
+          
   - title: HuggingFace # Title for the section
     layout: list # Type of content section (list/text)
     content:
