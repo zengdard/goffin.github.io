@@ -132,8 +132,8 @@ content:
         link: https://huggingface.co/Nielzac
         description: | # this will include new lines to allow paragraphs
 
-          Some datasets and models avalaible on HF.
-          [Model](https://huggingface.co/Nielzac/CoM_Small_AIL)
+          Some datasets and models avalaible on HuggingFace.
+          [Model](https://huggingface.co/Nielzac/)
           
   - title: Association # Title for the section
     layout: list # Type of content section (list/text)
