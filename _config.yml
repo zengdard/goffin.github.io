@@ -134,6 +134,7 @@ content:
 
           Some datasets and models avalaible on HuggingFace.
           [Model](https://huggingface.co/Nielzac/)
+          [Report Of Training](https://wandb.ai/zengdar/CoM_Small_AIL/reports/Untitled-Report--Vmlldzo3MTk4MDQ0)
           
   - title: Association # Title for the section
     layout: list # Type of content section (list/text)
