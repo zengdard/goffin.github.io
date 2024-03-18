@@ -133,7 +133,7 @@ content:
         description: | # this will include new lines to allow paragraphs
 
           Some datasets and models avalaible on HF.
-          [Dataset(]https://huggingface.co/Nielzac/CoM_Small_AIL)
+          [Dataset](https://huggingface.co/Nielzac/CoM_Small_AIL)
           
   - title: Association # Title for the section
     layout: list # Type of content section (list/text)
