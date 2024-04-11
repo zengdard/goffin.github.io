@@ -39,6 +39,11 @@ linkedin_username: jeremy-gffa
 gtag: "G-9ZM4STESXV"
 # google_analytics: "G-9ZM4STESXV"
 
+- title: Quote
+  layout: text
+  content: |
+    <img src="images/asmp-peu-importe-qu-ils-nous-haissent-pourvu-qu-ils-nous-craignent.jpg" alt="Quote image" width="500" height="300">
+    
 # About Section
 # about_title: About Me
 #about_profile_image: images/profile.jpg
@@ -56,9 +61,7 @@ content:
         sub_title: Software and AI Developer
         caption: Mai 2024 - Juillet 2024 
      
-        description: | # this will include new lines to allow paragraphs
-
-          
+        description: | # this will include new lines to allow paragraphs       
      
   - title: 
     layout: list
