@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jérémy Goffin
-title: Ai and Cybersecurity Student 
+title: Cybersecurity Student | Artificial Intelligence
 email: jeremy_gfa@proton.me
 website: zengdard.github.io
 medium : medium.com/@jeremy_gfa
@@ -29,11 +29,6 @@ linkedin_username: jeremy-gffa
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: stendhalgpt.10web.site
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +43,8 @@ gtag: "G-9ZM4STESXV"
 # about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Passionate student specializing in Artificial Intelligence and Cybersecurity, with a focus on honing skills in computer security and cyber threat management. My interests extend to digital forensics, information retrieval, and the development of semi-autonomous LLM systems.
-  
-  Current projects include working on a Pseudo-AGI with <mark>SFT</mark> + <mark>DPO</mark> and an auto-learning process, reflecting my enthusiasm for building innovative solutions with AI.
+  French student with a passion for Artificial Intelligence and Cybersecurity. Specializing in computer security, cyber threat management, digital forensics, and information retrieval. Currently working and searching on projects such as a Pseudo-AGI with SFT + DPO and an auto-learning process, as well as a Bayesian Graph Model. 
+  Utilizing both Symbolic and Connectionist methods to build innovative solutions with AI.
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -59,12 +53,12 @@ content:
         title: Aldecis
         link: aldecis.com
         # link_text: boringcompany.com
-        sub_title: Assisstant Chief AI
+        sub_title: Software and AI Developer
         caption: Mai 2024 - Juillet 2024 
      
         description: | # this will include new lines to allow paragraphs
 
-          /
+          
      
   - title: 
     layout: list
@@ -109,7 +103,7 @@ content:
     content:
       - layout: left
         title: StendhalGPT
-        link: stendhalgpt.10web.site
+        link: https://www.ouest-france.fr/high-tech/numerique/chatgpt-a-angers-cet-etudiant-a-cree-un-site-pour-reperer-les-textes-ecrits-par-le-logiciel-36344b6a-b10d-11ed-9dce-00e6a0d5ca06
         # link_text: Project Website
        # additional_links:
           #- title:  sproogen/modern-resume-theme
@@ -119,11 +113,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          A free ai detector.
+          A free Articial Intelligence detector.
         description: | # this will include new lines to allow paragraphs
-         
-         Introducing a cutting-edge ChatGPT detection system leveraging freely available N-gram models, Markov chains, and kernel distance algorithms. This innovative solution provides efficient and accessible tools for identifying instances of ChatGPT across diverse online content. Stay ahead of the curve with this open-source detector, empowering users to enhance online communication safety and security.
-  
+          Here's a ChatGPT detection system that utilizes freely available N-gram models, Markov chains, and kernel distance algorithms. This system offers accessible tools for detecting instances of ChatGPT in various online content. By leveraging these models and algorithms, the system can effectively identify patterns and anomalies that may indicate the presence of ChatGPT. This solution aims to provide an easy-to-use and reliable way to detect and monitor the use of ChatGPT in online content.  
   - title: HuggingFace # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -132,11 +124,13 @@ content:
         link: https://huggingface.co/Nielzac
         description: | # this will include new lines to allow paragraphs
 
-          Some datasets and models avalaible on HuggingFace.
-          [Model](https://huggingface.co/Nielzac/)
-          [Report Of Training](https://wandb.ai/zengdar/CoM_Small_AIL/reports/Untitled-Report--Vmlldzo3MTk4MDQ0)
+          Here are some datasets and models available on HuggingFace:
+          * [Models and Dataset](https://huggingface.co/Nielzac/)
+          * [Report Of Training](https://wandb.ai/zengdar/CoM_Small_AIL/reports/Untitled-Report--Vmlldzo3MTk4MDQ0)
           
-  - title: Association # Title for the section
+          You can access the model and the report of training by clicking on the respective links. The model is hosted on HuggingFace, while the report of training is available on Weights & Biases.
+          
+  - title: Association Part # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -145,6 +139,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           [La finance de Marché : les options et produits dérivés](https://telegra.ph/Finance-de-March%C3%A9--Les-options-02-09)
           [Croissance Ricardienne et Croissance Schumpétèrienne](https://telegra.ph/Croissance-Ricardienne--Croissance-Schump%C3%A9t%C3%A9rienne---Vers-un-renouveau-Schump%C3%A9t%C3%A9rien-02-12)
+          [Finance de Marché : Les options](https://telegra.ph/Finance-de-March%C3%A9--Les-options-02-20)
+          [Les Indices Boursiers Américains : Une Fenêtre sur l'Économie et un Guide pour les Capital-Risque du Monde Entier](https://telegra.ph/Les-Indices-Boursiers-Am%C3%A9ricains--Une-Fen%C3%AAtre-sur-l%C3%89conomie-et-un-Guide-pour-les-Capital-Risque-du-monde-entier-04-01)
+          [Idéalisme et Réalisme dans les relations internationales](https://telegra.ph/Id%C3%A9alisme-et-R%C3%A9alisme-dans-les-relations-internationales-03-21)
+          [Croissance Ricardienne et Croissance Schumpétèrienne : Vers un renouveau Schumpétèrien](https://telegra.ph/Croissance-Ricardienne--Croissance-Schump%C3%A9t%C3%A9rienne---Vers-un-renouveau-Schump%C3%A9t%C3%A9rien-02-12)
+          [Le Trafic de pétrole en Syrie par les USA](https://telegra.ph/Le-Trafic-de-p%C3%A9trole-en-Syrie-par-les-USA-03-13)
+          [Introduction à la philosophie de Platon](https://telegra.ph/Introduction-%C3%A0-la-philosophie-de-Platon-03-21)
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
