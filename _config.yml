@@ -51,7 +51,7 @@ content:
     content: |
       <img src="images/asmp-peu-importe-qu-ils-nous-haissent-pourvu-qu-ils-nous-craignent.jpg" alt="Quote image" width="500" height="500">
       <img src="images/11-f-nous-vous-devons-plus-que-la-lumiere-asmp-shooter.jpg" alt="Quote image" width="500" height="500">
-       <img src="images/Flag_of_Lorraine.svg.png" alt="Quote image" width="500" height="300">
+       <img src="images/Flag_of_Lorraine.svg.png" alt="Quote image" width="800" height="450">
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
