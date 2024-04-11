@@ -39,11 +39,7 @@ linkedin_username: jeremy-gffa
 gtag: "G-9ZM4STESXV"
 # google_analytics: "G-9ZM4STESXV"
 
-- title: Quote
-  layout: text
-  content: |
-    <img src="images/asmp-peu-importe-qu-ils-nous-haissent-pourvu-qu-ils-nous-craignent.jpg" alt="Quote image" width="500" height="300">
-    
+  
 # About Section
 # about_title: About Me
 #about_profile_image: images/profile.jpg
@@ -51,6 +47,11 @@ about_content: | # this will include new lines to allow paragraphs
   French student with a passion for Artificial Intelligence and Cybersecurity. Specializing in computer security, cyber threat management, digital forensics, and information retrieval. Currently working and searching on projects such as a Pseudo-AGI with SFT + DPO and an auto-learning process, as well as a Bayesian Graph Model. 
   Utilizing both Symbolic and Connectionist methods to build innovative solutions with AI.
 content:
+- title: Quote
+  layout: text
+  content: |
+    <img src="images/asmp-peu-importe-qu-ils-nous-haissent-pourvu-qu-ils-nous-craignent.jpg" alt="Quote image" width="500" height="300">
+  
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
