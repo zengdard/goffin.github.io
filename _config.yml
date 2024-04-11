@@ -46,7 +46,11 @@ about_content: | # this will include new lines to allow paragraphs
   French student with a passion for Artificial Intelligence and Cybersecurity. Specializing in computer security, cyber threat management, digital forensics, and information retrieval. Currently working and searching on projects such as a Pseudo-AGI with SFT + DPO and an auto-learning process, as well as a Bayesian Graph Model.
   Utilizing both Symbolic and Connectionist methods to build innovative solutions with AI.
 content:
-  
+  - title: Quote
+    layout: text
+    content: |
+      <img src="images/asmp-peu-importe-qu-ils-nous-haissent-pourvu-qu-ils-nous-craignent.jpg" alt="Quote image" width="500" height="300">
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -136,4 +140,23 @@ content:
         # link: https://huggingface.co/Nielzac
         description: | # this will include new lines to allow paragraphs
           [La finance de Marché : les options et produits dérivés](https://telegra.ph/Finance-de-March%C3%A9--Les-options-02-09)
-          [Croissance Ricardienne et Croissance Schumpétèrienne](https://telegra.ph/Croissance-Ricardienne--Croissance-Schump%C3%A9t%C3%A9rienne---Vers-un-ren
+          [Croissance Ricardienne et Croissance Schumpétèrienne](https://telegra.ph/Croissance-Ricardienne--Croissance-Schump%C3%A9t%C3%A9rienne---Vers-un-renouveau-Schump%C3%A9t%C3%A9rien-02-12)
+          [Finance de Marché : Les options](https://telegra.ph/Finance-de-March%C3%A9--Les-options-02-20)
+          [Les Indices Boursiers Américains : Une Fenêtre sur l'Économie et un Guide pour les Capital-Risque du Monde Entier](https://telegra.ph/Les-Indices-Boursiers-Am%C3%A9ricains--Une-Fen%C3%AAtre-sur-l%C3%89conomie-et-un-Guide-pour-les-Capital-Risque-du-monde-entier-04-01)
+          [Idéalisme et Réalisme dans les relations internationales](https://telegra.ph/Id%C3%A9alisme-et-R%C3%A9alisme-dans-les-relations-internationales-03-21)
+          [Croissance Ricardienne et Croissance Schumpétèrienne : Vers un renouveau Schumpétèrien](https://telegra.ph/Croissance-Ricardienne--Croissance-Schump%C3%A9t%C3%A9rienne---Vers-un-renouveau-Schump%C3%A9t%C3%A9rien-02-12)
+          [Le Trafic de pétrole en Syrie par les USA](https://telegra.ph/Le-Trafic-de-p%C3%A9trole-en-Syrie-par-les-USA-03-13)
+          [Introduction à la philosophie de Platon](https://telegra.ph/Introduction-%C3%A0-la-philosophie-de-Platon-03-21)
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
