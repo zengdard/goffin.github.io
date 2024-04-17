@@ -133,11 +133,10 @@ content:
   
   - title: CoM System Overview
     layout: list 
-    link: "http://constellation-of-models.tech/"
     content:
       - layout: left
           title: Intelligent Task Distribution
-          link: https://www.ouest-france.fr/high-tech/numerique/chatgpt-a-angers-cet-etudiant-a-cree-un-site-pour-reperer-les-textes-ecrits-par-le-logiciel-36344b6a-b10d-11ed-9dce-00e6a0d5ca06
+          link: http://constellation-of-models.tech/
           description: |
                 Image showing the dynamic router and specialized models
                 <img src="images/Query_Module.png" alt="Image 8" width="550" height="400">
