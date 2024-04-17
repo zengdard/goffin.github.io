@@ -91,6 +91,8 @@ content:
           caption: May 2024 - July 2024
   
           description: | # this will include new lines to allow paragraphs
+    
+    title:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
