@@ -97,9 +97,8 @@ content:
         - layout: left
           title: Aldecis
           link: aldecis.com
-          sub_title: InterShip in Ai and Cybersecurity
-          caption: May 2024 - July 2024
-  
+          sub_title: InterShip in Ai and Cybersecurity with Corporate Finance Environement 
+          caption: August 2024 - September 2025
           description: | # this will include new lines to allow paragraphs
     
   - title:
@@ -108,9 +107,8 @@ content:
       - layout: left
         title: Aldecis
         link: aldecis.com
-        sub_title: InterShip Corporate Finance and Cybersecurity
+        sub_title: InterShip in Ai and Cybersecurity with Corporate Finance Environement 
         caption: May 2024 - July 2024
-
         description: | # this will include new lines to allow paragraphs
 
   - title:
