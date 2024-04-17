@@ -84,10 +84,19 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+        - layout: left
+          title: Aldecis
+          link: aldecis.com
+          sub_title: InterShip in Ai and Cybersecurity
+          caption: May 2024 - July 2024
+  
+          description: | # this will include new lines to allow paragraphs
+    layout: list # Type of content section (list/text)
+    content:
       - layout: left
         title: Aldecis
         link: aldecis.com
-        sub_title: Junior Software and AI Developer
+        sub_title: InterShip Corporate Finance and Cybersecurity
         caption: May 2024 - July 2024
 
         description: | # this will include new lines to allow paragraphs
@@ -139,7 +148,7 @@ content:
         title: Intelligent Task Distribution
         link: http://constellation-of-models.tech/
         description: |
-                <img src="images/img1.png" alt="Image 8" width="550" height="400">
+                <img src="images/img1.jpg" alt="Image 8" width="550" height="400">
                 The CoM system is built around a dynamic router that intelligently distributes tasks to a constellation of specialized, pre-trained models. Each model is an expert in its respective domain, allowing the system to handle a wide range of tasks with exceptional proficiency. This approach emerges as a flexible and specialized solution in the realm of multi-model strategies, setting a new standard for consistency and efficiency.
     
   
