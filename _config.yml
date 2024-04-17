@@ -129,11 +129,14 @@ content:
       * [Using Encodec Meta Model in Stereo Mode with torchaudio](https://medium.com/@jeremy_gfa/using-encodec-meta-model-in-stereo-mode-with-torchaudio-7651cdc7632c)
 
       You can find all my articles on my Medium profile: [Medium](https://medium.com/@jeremy_gfa)
+  
+  
   - title: CoM System Overview
-    link: http://constellation-of-models.tech/
+    layout: list 
+    link: "http://constellation-of-models.tech/"
     sub_title: Intelligent Task Distribution
     caption: Image showing the dynamic router and specialized models
-    image_path: "images/Query Module.png"
+    image_path: "images/Query_Module.png"
     description: |
           The CoM system is built around a dynamic router that intelligently distributes tasks to a constellation of specialized, pre-trained models. Each model is an expert in its respective domain, allowing the system to handle a wide range of tasks with exceptional proficiency. This approach emerges as a flexible and specialized solution in the realm of multi-model strategies, setting a new standard for consistency and efficiency.
   
