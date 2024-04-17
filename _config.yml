@@ -87,9 +87,8 @@ content:
       - layout: left
         title: Aldecis
         link: aldecis.com
-        # link_text: boringcompany.com
-        sub_title: Software and AI Developer
-        caption: Mai 2024 - Juillet 2024
+        sub_title: Junior Software and AI Developer
+        caption: May 2024 - July 2024
 
         description: | # this will include new lines to allow paragraphs
 
@@ -101,7 +100,7 @@ content:
         link: aldecis.com
         # link_text: boringcompany.com
         sub_title: Assistant Chief AI
-        caption: Juin 2023 - Aout 2023
+        caption: June 2023 - August 2023
         quote: >
           Transform Business Intelligence with Symbolic and Connectionist Artificial Intelligence Application.
         description: | # this will include new lines to allow paragraphs
