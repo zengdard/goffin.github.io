@@ -46,9 +46,9 @@ about_content: | # this will include new lines to allow paragraphs
   French student with a passion for Artificial Intelligence and Cybersecurity. Specializing in computer security, cyber threat management, digital forensics, and information retrieval. Currently working and searching on projects such as a Pseudo-AGI with SFT + DPO and an auto-learning process, as well as a Bayesian Graph Model.
   Utilizing both Symbolic and Connectionist methods to build innovative solutions with AI.
   Skills:
-      * Programming languages: C++ (BASIC), Python, Flutter/Dart, SQL, CUDA (Basic), Rust (BASIC), Prolog (BASIC)
-      * Python libraries: Langchain, PyTorch, Tensorflow, Keras
-      * Graph databases: Neo4j (Cypher), MemGraph
+      * Programming languages: C++ (BASIC), Python, Flutter/Dart, SQL, CUDA (Basic), Rust (BASIC), Prolog (BASIC)\n
+      * Python libraries: Langchain, PyTorch, Tensorflow, Keras\n
+      * Graph databases: Neo4j (Cypher), MemGraph\n
       
 content:
   - title: Quote/Personnalities
