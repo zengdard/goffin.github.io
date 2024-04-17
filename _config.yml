@@ -85,6 +85,12 @@ content:
         <img src="images/Flag_of_Lorraine.svg.png" alt="Image 9" width="300" height="200">
         <img src="images/asmp-peu-importe-qu-ils-nous-haissent-pourvu-qu-ils-nous-craignent.jpg" alt="Image 10" width="300" height="300">
         <img src="images/lafontaine.jpg" alt="Image 12" width="400" height="300">
+        <img src="images/lafontaine.jpg" alt="Image 12" width="400" height="300">
+        <img src="images/Screenshot-from-2021-01-10-09-19-28-1.webp" alt="Image 12" width="400" height="300">
+        <img src="images/Albatros.jpeg" alt="Image 12" width="400" height="300">
+        <img src="images/Blochsphere.svg.png" alt="Image 12" width="400" height="300">
+        <img src="images/Example-of-a-Mixture-of-Experts-Model-with-Expert-Members-and-A-Gating-Network.webp" alt="Image 12" width="400" height="300">
+        
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,7 +103,7 @@ content:
   
           description: | # this will include new lines to allow paragraphs
     
-    title:
+  - title:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
