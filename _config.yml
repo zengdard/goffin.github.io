@@ -148,7 +148,7 @@ content:
     content:
       - layout: left
         title: StendhalGPT
-        link: https://www.ouest-france.fr/high-tech/numerique/chatgpt-a-angers-cet-etudiant-a-cree-un-site-pour-reperer-les-textes-ecrits-par-le-logiciel-36344b6a-b10d-11ed-9dce-00e6a0d5ca06
+        #link: https://www.ouest-france.fr/high-tech/numerique/chatgpt-a-angers-cet-etudiant-a-cree-un-site-pour-reperer-les-textes-ecrits-par-le-logiciel-36344b6a-b10d-11ed-9dce-00e6a0d5ca06
         # link_text: Project Website
        # additional_links:
           #- title:  sproogen/modern-resume-theme
@@ -158,7 +158,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          A free Articial Intelligence detector.
+          Artificial Pattern Detection.
         description: | # this will include new lines to allow paragraphs
           Here's a ChatGPT detection system that utilizes freely available N-gram models, Markov chains, and kernel distance algorithms. This system offers accessible tools for detecting instances of ChatGPT in various online content. By leveraging these models and algorithms, the system can effectively identify patterns and anomalies that may indicate the presence of ChatGPT. This solution aims to provide an easy-to-use and reliable way to detect and monitor the use of ChatGPT in online content.
   - title: HuggingFace # Title for the section
