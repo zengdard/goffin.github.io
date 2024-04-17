@@ -63,7 +63,12 @@ about_content: | # this will include new lines to allow paragraphs
             * Keras
       Graph databases:
             * Neo4j (Cypher)
-            *MemGraph
+            * GraphEngine
+            * MemGraph
+      Vector Databases:
+            * Pinecone
+            * Milvus
+      
       
 content:
   - title: Quote/Personnalities
