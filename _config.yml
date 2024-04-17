@@ -47,23 +47,23 @@ about_content: | # this will include new lines to allow paragraphs
   Utilizing both Symbolic and Connectionist methods to build innovative solutions with AI.
   Skills:
       Programming languages:
-            C++ (BASIC)
-            Python
-            Flutter/Dart
-            SQL
-            CUDA (Basic)
-            Rust (BASIC)
-            Prolog (BASIC)
+            * C++ (BASIC)
+            * Python
+            * Flutter/Dart
+            * SQL
+            * CUDA (Basic)
+            * Rust (BASIC)
+            * Prolog (BASIC)
       Python libraries:
-            Langchain
-            PyTorch
-            SFT
-            Numpy
-            Tensorflow
-            Keras
-            Graph databases:
-            Neo4j (Cypher)
-            MemGraph
+            * Langchain
+            * PyTorch
+            * SFT
+            * Numpy
+            * Tensorflow
+            * Keras
+      Graph databases:
+            * Neo4j (Cypher)
+            *MemGraph
       
 content:
   - title: Quote/Personnalities
