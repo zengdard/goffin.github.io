@@ -138,8 +138,8 @@ content:
         title: Intelligent Task Distribution
         link: http://constellation-of-models.tech/
         description: |
-                Image showing the dynamic router and specialized models
                 <img src="images/Query_Module.png" alt="Image 8" width="550" height="400">
+                
                 The CoM system is built around a dynamic router that intelligently distributes tasks to a constellation of specialized, pre-trained models. Each model is an expert in its respective domain, allowing the system to handle a wide range of tasks with exceptional proficiency. This approach emerges as a flexible and specialized solution in the realm of multi-model strategies, setting a new standard for consistency and efficiency.
     
   
