@@ -285,6 +285,92 @@ footer {
 .event-card p:last-child {
     margin-top: auto;
 }
+/* Bug Bounty Section */
+.bugbounty {
+    padding: 4rem 0;
+    background-color: #f9f9f9;
+}
+
+.bugbounty-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.bugbounty-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.bugbounty-card:hover {
+    transform: translateY(-5px);
+}
+
+.bugbounty-logo {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin-bottom: 1rem;
+}
+
+.bugbounty-card h3 {
+    font-size: 1.2rem;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.bugbounty-card p {
+    font-size: 0.9rem;
+    color: var(--text-color);
+}
+
+/* Quotes Section */
+.quotes {
+    padding: 4rem 0;
+}
+
+.quote-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.quote-figure {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quote-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.quote-figure:hover .quote-image {
+    transform: scale(1.05);
+}
+
+figcaption {
+    margin-top: 0.5rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--text-color);
+}
 @media (max-width: 768px) {
     .container {
         width: 90%;
